@@ -1,4 +1,5 @@
 This repository contains the code for my dynamic and interactive portfolio website. The website is built using HTML, CSS, JavaScript, and PHP to provide a seamless user experience. This project is a culmination of my passion for creativity and innovation, blending design, programming, translation, poetry, and content writing into impactful and memorable experiences.
+
 Responsive Design -: Ensuring a seamless experience across different devices and screen sizes.
 Smooth Scrolling Navigation- : Enhanced navigation links with smooth scrolling functionality for a visually pleasing transition.
 Dynamic Content: Utilizing JavaScript to dynamically update content, providing a comprehensive view of my work.
