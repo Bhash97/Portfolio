@@ -1,0 +1,113 @@
+.navbar{
+    background-color: teal;
+}
+.navbar .logo1{
+    height:40px;
+    width: 40px;
+}
+.navbar .portfolio1{
+    padding-left: 10px;
+}
+.navbarScroll.navbarDark {
+    background-color: black;
+}
+
+.bgimage {
+    height:100vh;
+    background: url('images/heroimage.jpg');
+    background-size:cover;
+    position:relative;
+}
+
+.hero_title {
+    font-size: 4.5rem;
+}
+
+.hero_desc {
+    font-size: 2rem;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+#about, #services, #portfolio, #contact {
+    margin-top: 1rem;
+    padding-top: 4rem;
+} 
+.content1{
+    text-align: justify;
+}
+#contact {
+    padding-bottom: 4rem;
+}
+
+#contact button{
+    background-color: teal;
+}
+
+#contact button:hover{
+    background-color: transparent;
+    border-color: teal;
+    color: teal;
+}
+.row{
+    padding-top: 10px;
+}
+
+.imageAboutPage {
+    width: 100%;
+}
+
+.servicesText.card {
+    height: 280px;
+    cursor: pointer;
+}
+
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card:hover .servicesIcon {
+    color: teal;
+}
+
+.servicesText:hover {
+    border: 1px solid teal;
+}
+
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+
+.fa-facebook:hover,.fa-instagram:hover,.fa-github:hover,.fa-linkedin:hover, .fa-twitch:hover {
+    color: #FFF;
+}
+
+.fab {
+    color: #000000;
+}
+
+#footer {
+    background-color: teal;
+    text-align: center;
+}
+
+#about img
+{
+    height: 500px;
+   width: 400px;
+    border-radius: 5%;
+}
