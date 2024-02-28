@@ -1,0 +1,1 @@
+Welcome to My Portfolio! This project is a culmination of my passion for creativity and innovation, blending design, programming, translation, poetry, and content writing into impactful and memorable experiences. With a background in IT and multimedia technologies, I bring a deep understanding of both technical and creative aspects to digital media.
