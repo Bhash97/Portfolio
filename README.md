@@ -2,15 +2,15 @@ This repository contains the code for my dynamic and interactive portfolio websi
 
 Responsive Design -: Ensuring a seamless experience across different devices and screen sizes.
 
-Smooth Scrolling Navigation- : Enhanced navigation links with smooth scrolling functionality for a visually pleasing transition.
+Smooth Scrolling Navigation -: Enhanced navigation links with smooth scrolling functionality for a visually pleasing transition.
 
-Dynamic Content: Utilizing JavaScript to dynamically update content, providing a comprehensive view of my work.
+Dynamic Content -: Utilizing JavaScript to dynamically update content, providing a comprehensive view of my work.
 
-Image Slider: Incorporating an image slider for users to explore multiple images related to my projects and themes.
+Image Slider -: Incorporating an image slider for users to explore multiple images related to my projects and themes.
 
-Form Validation: Implementing JavaScript to validate user submitted information in contact forms for accuracy.
+Form Validation -: Implementing JavaScript to validate user submitted information in contact forms for accuracy.
 
-Custom Animations: Employing JavaScript to create custom animations for smooth transitions and fade-in effects.
+Custom Animations -: Employing JavaScript to create custom animations for smooth transitions and fade-in effects.
 
 Feel free to explore my portfolio website and reach out to me for inquiries, collaborations, or any feedback you may have!
 
